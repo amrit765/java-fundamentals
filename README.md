@@ -10,7 +10,7 @@ This repository contains my structured learning of Java fundamentals.
 - Arrays
 - Strings
 - Bit Manipulation
-- OOPs
+- Object-Oriented Programming (OOP)
 
 ## Goal
 Build a strong foundation for Data Structures & Algorithms.
