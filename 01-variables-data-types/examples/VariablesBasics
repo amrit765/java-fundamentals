@@ -1,0 +1,18 @@
+// Demonstration of variables and data types
+
+public class VariablesBasics {
+    public static void main(String[] args) {
+
+        int age = 21;
+        float marks = 85.5f;
+        double salary = 50000.75;
+        char grade = 'A';
+        boolean isPassed = true;
+
+        System.out.println("Age: " + age);
+        System.out.println("Marks: " + marks);
+        System.out.println("Salary: " + salary);
+        System.out.println("Grade: " + grade);
+        System.out.println("Passed: " + isPassed);
+    }
+}
