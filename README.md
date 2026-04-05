@@ -34,7 +34,7 @@ Each topic is organized in the following format:
 
 Topic Name/
 
-├── theory.md
+├── notes/
 
 ├── examples/
 
