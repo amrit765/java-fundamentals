@@ -3,6 +3,8 @@
 ## 📌 Description
 This section covers the fundamentals of Java including variables, data types, input/output, type conversion, and basic program structure.
 
+---
+
 ## 📚 Topics Covered
 
 - Introduction to Java (JDK, JRE, JVM)
@@ -69,6 +71,6 @@ For this topic, I followed a structured approach:
 ## 🚀 Next Step
 
 Moving forward to:
-➡️ **Operators in Java**
+➡️ **Operators and Conditional Statements in Java**
 
 ---
