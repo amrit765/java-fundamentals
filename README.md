@@ -3,8 +3,7 @@ This repository contains my structured learning of Java fundamentals with a stro
 
 ## 📌 Topics Covered
 - Variables & Data Types
-- Operators
-- Conditional Statements
+- Operators & Conditional Statements
 - Loops
 - Patterns
 - Functions & Methods
