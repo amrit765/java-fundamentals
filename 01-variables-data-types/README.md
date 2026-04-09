@@ -43,17 +43,6 @@ After completing this topic, I can:
 
 ---
 
-## 🔁 Learning Approach
-
-For this topic, I followed a structured approach:
-
-- 📖 Learned concepts from lectures  
-- 📝 Created handwritten notes  
-- 💻 Implemented example codes  
-- 🧠 Solved practice problems  
-
----
-
 ## 🚀 Next Step
 
 Moving forward to:
