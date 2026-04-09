@@ -21,20 +21,6 @@ This section covers the fundamentals of Java including variables, data types, in
 
 ---
 
-## 📂 Folder Structure
-01-variables-data-types/
-
-├── notes/ → Handwritten notes (images)
-
-├── examples/ → Basic syntax and concept programs
-
-├── problems/ → Practice problems with solutions
-
-└── README.md
-
-
----
-
 ## 💻 What I Practiced
 
 - Declaring and using variables
