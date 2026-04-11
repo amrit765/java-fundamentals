@@ -1,12 +1,12 @@
-#Loops in Java 🔁
+# Loops in Java 🔁
 
-##📌 Description
+## 📌 Description
 
 Loops are fundamental control structures used to execute a block of code repeatedly based on a condition. They are essential for reducing redundancy and building efficient logic in programming and Data Structures & Algorithms.
 
 ---
 
-##📚 Topics Covered
+## 📚 Topics Covered
 
 🔹 While Loop
 Syntax: while(condition)
@@ -32,7 +32,7 @@ Moves control to next iteration
 
 ---
 
-##💻 What I Practiced
+## 💻 What I Practiced
 
 Print "Hello" multiple times using loops
 Print numbers from 1 to 10
@@ -50,7 +50,7 @@ Skip values using continue
 
 ---
 
-##🧠 Important Concepts
+## 🧠 Important Concepts
 
 🔸 Digit Extraction Pattern
 Extract last digit → n % 10
@@ -67,7 +67,7 @@ Must run at least once	do-while
 
 ---
 
-##🎯 Learning Outcome
+## 🎯 Learning Outcome
 
 After completing this topic, I understand:
 
@@ -80,13 +80,13 @@ Writing optimized looping logic for problem-solving
 
 ---
 
-##⚡ Complexity Awareness
+## ⚡ Complexity Awareness
 Number reversal → O(log n)
 Prime check (optimized) → O(√n)
 Space complexity → O(1) (constant space)
 
 ---
 
-##🚀 Next Step
+## 🚀 Next Step
 
 Moving forward to:➡️ **Functions & Methods in Java**
