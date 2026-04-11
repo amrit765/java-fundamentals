@@ -1,7 +1,10 @@
-Loops in Java 🔁
-📌 Description
+#Loops in Java 🔁
+
+##📌 Description
 
 Loops are fundamental control structures used to execute a block of code repeatedly based on a condition. They are essential for reducing redundancy and building efficient logic in programming and Data Structures & Algorithms.
+
+---
 
 📚 Topics Covered
 🔹 While Loop
