@@ -1,1 +1,7 @@
 # Functions & Methods ⚙️
+
+---
+
+## 📌 Topics Covered
+
+---
