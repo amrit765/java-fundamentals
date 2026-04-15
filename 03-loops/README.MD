@@ -9,28 +9,23 @@ Loops are fundamental control structures used to execute a block of code repeate
 ## 📚 Topics Covered
 
 ### 🔹 While Loop
-
 - Syntax: while(condition)
 - Executes as long as condition is true
 - Entry-controlled loop (checks condition first)
 
 ### 🔹 For Loop
-
 - Syntax: for(initialization; condition; update)
 - Best suited for known number of iterations
 - Compact and readable structure
 
 ### 🔹 Do-While Loop
-
 - Executes at least once, even if condition is false
 - Exit-controlled loop (condition checked after execution)
 
 ### 🔹 Loop Control Statements
-
 #### ✅ Break Statement
 - Used to terminate loop immediately
 - Transfers control outside the loop
-
 #### ✅ Continue Statement
 - Used to skip current iteration
 - Moves control to next iteration
@@ -54,12 +49,9 @@ Loops are fundamental control structures used to execute a block of code repeate
 ### 🔸 Digit Extraction Pattern
 - Extract last digit → n % 10
 - Remove last digit → n / 10
-
 ### 🔸 Number Reversal Logic
 - rev = rev * 10 + lastDigit
-
 ### 🔸 Loop Selection Strategy
-
 - Scenario	Best Loop
 - Unknown iterations	while
 - Known iterations	for
