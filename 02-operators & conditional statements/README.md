@@ -39,7 +39,7 @@ These concepts are critical for writing logical programs and form the base of pr
 
 ## 🎯 Learning Outcome
 
-After completing this topic, I understand:
+### After completing this topic, I understand:
 
 - Difference between **binary and unary operators**
 - Working of **pre vs post increment/decrement**
@@ -52,8 +52,6 @@ After completing this topic, I understand:
 
 ## 🚀 Next Step
 
-Moving forward to:
-➡️ **Loops in java**
+Moving forward to: ➡️ **Loops in java**
 
----
 
