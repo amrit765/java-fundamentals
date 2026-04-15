@@ -23,9 +23,11 @@ Executes at least once, even if condition is false
 Exit-controlled loop (condition checked after execution)
 
 🔹 Loop Control Statements
+
 ✅ Break Statement
 Used to terminate loop immediately
 Transfers control outside the loop
+
 ✅ Continue Statement
 Used to skip current iteration
 Moves control to next iteration
@@ -35,15 +37,21 @@ Moves control to next iteration
 ## 💻 What I Practiced
 
 Print "Hello" multiple times using loops
+
 Print numbers from 1 to 10
+
 Calculate sum of first n natural numbers
+
 Generate simple pattern printing (square pattern)
+
 Reverse digits of a number using:
-Digit extraction (n % 10)
+Digit extraction (n % 10),
 Reduction (n / 10)
+
 Build logic for:
 Palindrome check (conceptual extension)
 User input-based programs using Scanner
+
 Exit loop when:
 Number is a multiple of 10
 Skip values using continue
