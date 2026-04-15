@@ -5,8 +5,8 @@ This repository contains my structured learning of Java fundamentals with a stro
 - Variables & Data Types
 - Operators & Conditional Statements
 - Loops
-- Patterns
 - Functions & Methods
+- Patterns
 - Arrays
 - Strings
 - Bit Manipulation
