@@ -71,14 +71,6 @@ Loops are fundamental control structures used to execute a block of code repeate
 
 ---
 
-## ⚡ Complexity Awareness
-
-- Number reversal → O(log n)
-- Prime check (optimized) → O(√n)
-- Space complexity → O(1) (constant space)
-
----
-
 ## 🚀 Next Step
 
 Moving forward to:➡️ **Functions & Methods in Java**
