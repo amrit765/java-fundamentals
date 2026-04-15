@@ -14,7 +14,7 @@ This repository contains my structured learning of Java fundamentals with a stro
 
 ## 🎯 Learning Approach
 
-I am following a **deep learning approach** for each topic:
+### I am following a **deep learning approach** for each topic:
 
 - 📖 Understanding concepts through lectures
 - 📝 Creating **handwritten notes** for better retention
@@ -22,14 +22,14 @@ I am following a **deep learning approach** for each topic:
 - 🧠 Solving **practice problems topic-wise**
 - 🔁 Revising concepts regularly
 
-Each topic in this repository includes:
+### Each topic in this repository includes:
 - Theory notes (self-written)
 - Example implementations
 - Practice problems with solutions
 
 ## 📂 Repository Structure
 
-Each topic is organized in the following format:
+### Each topic is organized in the following format:
 
 Topic Name/
 
