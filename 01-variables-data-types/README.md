@@ -33,7 +33,7 @@ This section covers the fundamentals of Java including variables, data types, in
 
 ## 🎯 Learning Outcome
 
-After completing this topic, I can:
+### After completing this topic, I can:
 
 - Understand how Java executes code
 - Use variables and data types effectively
@@ -45,7 +45,6 @@ After completing this topic, I can:
 
 ## 🚀 Next Step
 
-Moving forward to:
-➡️ **Operators and Conditional Statements in Java**
+Moving forward to: ➡️ **Operators and Conditional Statements in Java**
 
 ---
