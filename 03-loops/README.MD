@@ -50,10 +50,12 @@ Reduction (n / 10)
 
 Build logic for:
 Palindrome check (conceptual extension)
+
 User input-based programs using Scanner
 
 Exit loop when:
 Number is a multiple of 10
+
 Skip values using continue
 
 ---
@@ -80,17 +82,25 @@ Must run at least once	do-while
 After completing this topic, I understand:
 
 Difference between while, for, and do-while loops
+
 When to use each type of loop effectively
+
 How loop control statements (break, continue) affect execution
+
 How to design logic using iteration patterns
+
 Implementation of digit-based problems (reverse, extraction)
+
 Writing optimized looping logic for problem-solving
 
 ---
 
 ## ⚡ Complexity Awareness
+
 Number reversal → O(log n)
+
 Prime check (optimized) → O(√n)
+
 Space complexity → O(1) (constant space)
 
 ---
