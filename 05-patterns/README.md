@@ -9,17 +9,17 @@ Pattern printing is a foundational skill for mastering loops, nested iteration, 
 
 ## 📚 Topics Covered
 
-# 🔹 Basic Patterns
+### 🔹 Basic Patterns
 - Print star pattern
 - Print inverted star pattern
 - Print half pyramid pattern
   
-# 🔹 Character & Number Patterns
+### 🔹 Character & Number Patterns
 - Print character pattern
 - Print Floyd's triangle pattern
 - Print 0-1 triangle pattern
 
-# 🔹 Advanced Pattern Structures
+### 🔹 Advanced Pattern Structures
 - Print hollow rectangle pattern
 - Print inverted & rotated half pyramid
 - Print butterfly pattern
@@ -54,4 +54,6 @@ Pattern printing is a foundational skill for mastering loops, nested iteration, 
 
 🚀 Next Step
 
-Moving forward to: ➡️ Arrays 
+Moving forward to: ➡️ Arrays in java.
+
+---
