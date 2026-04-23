@@ -60,7 +60,8 @@ Arrays are one of the most fundamental data structures. They enable efficient st
 
 ### 🎯 Learning Outcome
 
-- After completing this topic, I understand:
+#### After completing this topic, I understand:
+
 - How arrays are stored and accessed in memory
 - When to use linear vs binary search
 - How to optimize brute force solutions using prefix sums
