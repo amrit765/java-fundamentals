@@ -5,22 +5,22 @@
 Arrays are one of the most fundamental data structures. They enable efficient storage and manipulation of multiple values using a single variable, forming the backbone for advanced DSA concepts like searching, sorting, and dynamic programming.
 
 ### 📚 Topics Covered
-🔹 Basics of Arrays
+#### 🔹 Basics of Arrays
 - Array creation
 - Input & Output operations
 - Memory representation
 - Indexing (0-based)
   
-🔹 Complexity Analysis
+#### 🔹 Complexity Analysis
 - Time Complexity (O(n), O(log n))
 - Space Complexity
 - Best, Average, Worst case analysis
   
-🔹 Searching Techniques
+#### 🔹 Searching Techniques
 - Linear Search (Sequential traversal)
 - Binary Search (on sorted arrays)
   
-🔹 Subarrays
+#### 🔹 Subarrays
 - Concept of subarrays
 - Total number of subarrays
 - Iterative generation
@@ -33,24 +33,24 @@ Arrays are one of the most fundamental data structures. They enable efficient st
 ---
 
 ### 💻 What I Practiced
-🔸 Basic Array Problems
+#### 🔸 Basic Array Problems
 - Update the marks of an array
 - Find the largest number in an array
 - Reverse an array
 - Print all pairs in an array
   
-🔸 Subarray-Based Problems
+#### 🔸 Subarray-Based Problems
 - Print all subarrays
 - Maximum subarray sum:
 - Brute Force Approach
 - Prefix Sum Approach
 - Kadane’s Algorithm (VVI)
   
-🔸 Advanced Array Problems (High Value)
+#### 🔸 Advanced Array Problems (High Value)
 - Trapping Rainwater Problem (VVI)
 - Best Time to Buy & Sell Stocks (Max Profit)
   
-🔸 2D Array Problems
+#### 🔸 2D Array Problems
 - Search an element in a matrix
 - Spiral traversal of matrix (VVI)
 - Sum of diagonals
