@@ -25,7 +25,7 @@ Arrays are one of the most fundamental data structures. They enable efficient st
 - Total number of subarrays
 - Iterative generation
   
-🔹 2D Arrays (Matrices)
+#### 🔹 2D Arrays (Matrices)
 - Declaration & initialization
 - Input & Output
 - Row-wise & column-wise traversal
