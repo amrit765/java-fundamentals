@@ -41,7 +41,8 @@ Pattern printing is a foundational skill for mastering loops, nested iteration, 
 
 ## 🎯 Learning Outcome
 
-- After completing this topic, I understand:
+#### After completing this topic, I understand:
+
 - How to break down patterns into rows and columns
 - Writing efficient nested loop structures
 - Handling space + symbol combinations
