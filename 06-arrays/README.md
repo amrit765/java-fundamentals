@@ -1,30 +1,38 @@
-Arrays (Part I, II & 2D Arrays) 📊
-📌 Description
+# Arrays 📊
+
+## 📌 Description
 
 Arrays are one of the most fundamental data structures. They enable efficient storage and manipulation of multiple values using a single variable, forming the backbone for advanced DSA concepts like searching, sorting, and dynamic programming.
 
-📚 Topics Covered
+### 📚 Topics Covered
 🔹 Basics of Arrays
-Array creation
-Input & Output operations
-Memory representation
-Indexing (0-based)
+- Array creation
+- Input & Output operations
+- Memory representation
+- Indexing (0-based)
+  
 🔹 Complexity Analysis
-Time Complexity (O(n), O(log n))
-Space Complexity
-Best, Average, Worst case analysis
+- Time Complexity (O(n), O(log n))
+- Space Complexity
+- Best, Average, Worst case analysis
+  
 🔹 Searching Techniques
-Linear Search (Sequential traversal)
-Binary Search (on sorted arrays)
+- Linear Search (Sequential traversal)
+- Binary Search (on sorted arrays)
+  
 🔹 Subarrays
-Concept of subarrays
-Total number of subarrays
-Iterative generation
+- Concept of subarrays
+- Total number of subarrays
+- Iterative generation
+  
 🔹 2D Arrays (Matrices)
-Declaration & initialization
-Input & Output
-Row-wise & column-wise traversal
-💻 What I Practiced
+- Declaration & initialization
+- Input & Output
+- Row-wise & column-wise traversal
+
+---
+
+### 💻 What I Practiced
 🔸 Basic Array Problems
 Update the marks of an array
 Find the largest number in an array
