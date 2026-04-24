@@ -18,6 +18,9 @@ Get i-th bit,
 Set i-th bit,
 Clear i-th bit,
 Update i-th bit
+
+---
+
 ## 💻 What I Practiced
 ### 🔸 Basic Problems
 - Check if a number is odd or even using bitwise AND
