@@ -11,8 +11,8 @@ Strings are essential for handling textual data. Mastery of string manipulation 
 - Memory management (String Pool)
 - String comparison (== vs .equals())
 ### 🔹 String Functions
-length(), charAt(), compareTo()
-equals(), equalsIgnoreCase()
+length(), charAt(), compareTo(),
+equals(), equalsIgnoreCase(),
 toUpperCase(), toLowerCase()
 ### 🔹 Substring
 - Extracting substrings using substring()
