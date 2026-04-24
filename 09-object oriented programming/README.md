@@ -67,6 +67,10 @@ super
 
 ---
 
-## 🚀 Next Step
+## 🚀 Next Repository
 
-Moving forward to: ➡️ Advanced DSA & Problem Solving
+This repository concludes the Java Fundamentals journey.
+
+#### Continue here: ➡️ DSA Implementation in Java
+
+---
