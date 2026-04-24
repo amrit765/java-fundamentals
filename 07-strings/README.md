@@ -1,4 +1,4 @@
-# Strings in Java 🔤
+# Strings 🔤
 ## 📌 Description
 
 Strings are essential for handling textual data. Mastery of string manipulation is critical for solving real-world problems, especially in pattern matching, parsing, and optimization tasks.
