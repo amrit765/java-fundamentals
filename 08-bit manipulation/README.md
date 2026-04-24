@@ -14,9 +14,9 @@ NOT (~),
 Left Shift (<<),
 Right Shift (>>)
 ### 🔹 Bit Operations
-Get i-th bit
-Set i-th bit
-Clear i-th bit
+Get i-th bit,
+Set i-th bit,
+Clear i-th bit,
 Update i-th bit
 ## 💻 What I Practiced
 ### 🔸 Basic Problems
