@@ -2,7 +2,7 @@
 
 ## 📌 Description
 
-Functions and methods are fundamental building blocks in Java that help in writing modular, reusable, and structured code. They play a key role in optimizing logic and improving code readability—essential for Data Structures & Algorithms.
+Functions and methods are fundamental building blocks in Java that help in writing modular, reusable, and structured code. They play a key role in optimizing logic and improving code readability which is essential for Data Structures & Algorithms.
 
 ---
 
