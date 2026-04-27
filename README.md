@@ -1,4 +1,4 @@
-# java-fundamentals 🚀
+# JAVA-FUNDAMENTALS 🚀
 This repository contains my structured learning of Java fundamentals with a strong focus on building a solid base for Data Structures & Algorithms.
 
 ## 📌 Topics Covered
