@@ -1,4 +1,4 @@
-# Loops in Java 🔁
+# LOOPS 🔁
 
 ## 📌 Description
 
