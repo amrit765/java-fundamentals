@@ -1,4 +1,4 @@
-# Bit Manipulation ⚡
+# BIT MANIPULATION ⚡
 ## 📌 Description
 
 Bit manipulation enables solving problems at the binary level, offering highly optimized solutions in terms of time and space. It is widely used in competitive programming and system-level optimization.
