@@ -1,4 +1,4 @@
-# Functions & Methods 🔁
+# FUNCTIONS & METHODS 🔁
 
 ## 📌 Description
 
