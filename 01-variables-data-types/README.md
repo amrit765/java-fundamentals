@@ -1,4 +1,4 @@
-# Variables & Data Types
+# VARIABLES & DATA TYPES
 
 ## 📌 Description
 This section covers the fundamentals of Java including variables, data types, input/output, type conversion, and basic program structure.
