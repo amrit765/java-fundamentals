@@ -1,4 +1,4 @@
-# Pattern Printing 🧩
+# PATTERNS 🧩
 
 
 ## 📌 Description
