@@ -1,4 +1,4 @@
-# Object-Oriented Programming (OOP) 🧩
+# OBJECT ORIENTED PROGRAMMING (OOP) 🧩
 ## 📌 Description
 
 OOP is a programming paradigm based on objects and classes. It enables modular, reusable, and scalable code design, essential for building real-world applications.
