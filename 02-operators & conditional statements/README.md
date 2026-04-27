@@ -1,4 +1,4 @@
-# Operators & Conditional Statements ⚙️
+# OPERATORS & CONDITIONAL STATEMENTS ⚙️
 
 ## 📌 Description
 
