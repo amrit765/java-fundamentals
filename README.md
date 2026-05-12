@@ -10,7 +10,7 @@ This repository contains my structured learning of Java fundamentals with a stro
 - Arrays
 - Strings
 - Bit Manipulation
-- Object-Oriented Programming (OOP)
+- Object-Oriented Programming (OOPs)
 
 ## 🎯 Learning Approach
 
